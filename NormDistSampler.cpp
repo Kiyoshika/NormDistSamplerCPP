@@ -1,8 +1,7 @@
 #include <iostream>
 #include <random>
 #include <cmath>
-#include <cstdlib> // srand for setting seeds
-#include <ctime> // ^^
+#include <ctime> // for setting random seeds
 
 #define PI 3.14159
 
